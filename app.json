@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "abc",
-    "slug": "abc",
+    "slug": "macrotracker",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
@@ -39,6 +39,13 @@
     "experiments": {
       "typedRoutes": true,
       "reactCompiler": true
-    }
+    },
+    "extra": {
+      "router": {},
+      "eas": {
+        "projectId": "61eac927-6ec1-4163-920d-2d0e33287cc0"
+      }
+    },
+    "owner": "sreehari9320"
   }
 }
