@@ -36,10 +36,3 @@ npx expo start
 ```
 
 Then open the app using Expo Go, an Android emulator, or an iOS simulator.
-
-## Future Improvements
-
-* Daily macro goals
-* Progress tracking
-* Charts and analytics
-* Cloud sync and authentication
